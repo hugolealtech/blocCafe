@@ -1,2 +1,0 @@
-# blogcafe
-# atividade_04
