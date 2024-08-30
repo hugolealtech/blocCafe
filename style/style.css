@@ -94,3 +94,36 @@ p{
     margin: 10px 50px 0px 50px;
     
 }
+
+footer{
+
+    height: 70px;
+    background-color:rgb(152, 123, 93) ;
+    margin-top: 10px;
+    padding: 15px;
+    border-radius: 20px 20px 0px 0px;
+    
+}
+footer p{
+
+    color: white;
+    text-align: center;
+    padding-left: -200px;
+    
+   
+}
+
+.newPage header{
+
+    font-family: cursive;
+    text-align: center;
+    color: rgb(230, 111, 32);
+
+}
+.newPage{
+    
+    flood-opacity: 20%;
+    margin: 20px auto; 
+    width: 80%;
+}
+
